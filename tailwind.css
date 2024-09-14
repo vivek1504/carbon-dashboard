@@ -1,0 +1,71 @@
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .all-\[unset\] {
+    all: unset;
+  }
+}
+
+:root {
+  --highlights-font-family: "Inter", Helvetica;
+  --highlights-font-size: 24px;
+  --highlights-font-style: normal;
+  --highlights-font-weight: 600;
+  --highlights-letter-spacing: 0px;
+  --highlights-line-height: 121.07717990875244%;
+  --montserrat-10px-regular-font-family: "Montserrat", Helvetica;
+  --montserrat-10px-regular-font-size: 10px;
+  --montserrat-10px-regular-font-style: normal;
+  --montserrat-10px-regular-font-weight: 400;
+  --montserrat-10px-regular-letter-spacing: 0px;
+  --montserrat-10px-regular-line-height: normal;
+  --montserrat-110px-regular-font-family: "Montserrat", Helvetica;
+  --montserrat-110px-regular-font-size: 110px;
+  --montserrat-110px-regular-font-style: normal;
+  --montserrat-110px-regular-font-weight: 400;
+  --montserrat-110px-regular-letter-spacing: 0px;
+  --montserrat-110px-regular-line-height: normal;
+  --montserrat-16px-regular-font-family: "Montserrat", Helvetica;
+  --montserrat-16px-regular-font-size: 18px;
+  --montserrat-16px-regular-font-style: normal;
+  --montserrat-16px-regular-font-weight: 500;
+  --montserrat-16px-regular-letter-spacing: -0.28800000429153444px;
+  --montserrat-16px-regular-line-height: normal;
+  --montserrat-26px-regular-font-family: "Montserrat", Helvetica;
+  --montserrat-26px-regular-font-size: 18px;
+  --montserrat-26px-regular-font-style: normal;
+  --montserrat-26px-regular-font-weight: 500;
+  --montserrat-26px-regular-letter-spacing: -0.28800000429153444px;
+  --montserrat-26px-regular-line-height: 25px;
+  --montserrat-42px-regular-font-family: "Montserrat", Helvetica;
+  --montserrat-42px-regular-font-size: 38px;
+  --montserrat-42px-regular-font-style: normal;
+  --montserrat-42px-regular-font-weight: 600;
+  --montserrat-42px-regular-letter-spacing: -2.28px;
+  --montserrat-42px-regular-line-height: normal;
+  --montserrat-68px-regular-font-family: "Montserrat", Helvetica;
+  --montserrat-68px-regular-font-size: 68px;
+  --montserrat-68px-regular-font-style: normal;
+  --montserrat-68px-regular-font-weight: 400;
+  --montserrat-68px-regular-letter-spacing: 0px;
+  --montserrat-68px-regular-line-height: normal;
+  --montserrat-6px-regular-font-family: "Montserrat", Helvetica;
+  --montserrat-6px-regular-font-size: 6px;
+  --montserrat-6px-regular-font-style: normal;
+  --montserrat-6px-regular-font-weight: 400;
+  --montserrat-6px-regular-letter-spacing: 0px;
+  --montserrat-6px-regular-line-height: normal;
+  --montserrat-heading-font-family: "Wondra", Helvetica;
+  --montserrat-heading-font-size: 180px;
+  --montserrat-heading-font-style: normal;
+  --montserrat-heading-font-weight: 400;
+  --montserrat-heading-letter-spacing: 0px;
+  --montserrat-heading-line-height: normal;
+  --sub-heading-font-family: "Inter", Helvetica;
+  --sub-heading-font-size: 32px;
+  --sub-heading-font-style: normal;
+  --sub-heading-font-weight: 500;
+  --sub-heading-letter-spacing: 0.5px;
+  --sub-heading-line-height: 49px;
+}
